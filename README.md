@@ -34,3 +34,6 @@ USAGE CLIENT:
     - name is the name of the team.
 
     - machine is the name of the machine; localhost by default.
+    
+![Image description](cover.png)
+
